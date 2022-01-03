@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "MyElectronMusicPlayer": {
+    "CustomFrame": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
